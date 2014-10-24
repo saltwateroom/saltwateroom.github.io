@@ -1,0 +1,13 @@
+---
+layout: post
+title: "个人收藏"
+date: 2014-10-25 11:34:31
+categories: jekyll update
+---
+这个页面只是我的一些个人收藏
+
+* check [here][books] for more imformation,
+* if you hava any questions,点击这里 [联系我][questions] 与我联系。
+
+[books]:   http://www.qq.com
+[questions]:   http://www.github.com

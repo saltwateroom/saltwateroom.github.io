@@ -1,0 +1,28 @@
+markdown: kramdown
+highlighter: pygments
+permalink: blog/:year/:month/:day/:title.html
+paginate: 6
+paginate_path: page/:num
+
+blog:
+    name:       谷壳                                         # 博客名称
+    description:     本菜鸟第一次写blog,还请多多关照       # 博客描述
+    title:              (谷壳)                 # 网页标题
+    url:    lip177891840.github.io                  # 博客地址
+    duoshuo:                                   # 多说ID
+    tongji:                                   # 百度统计ID
+    qiniu:                                    # 七牛云地址
+author:
+    name:    lip                                  # 作者名称
+    email:  177891840@qq.com                  # 邮箱地址
+    weibo:                                    # 微博地址
+    github:  github.com/lip177891840          # GitHub地址
+    logo:   http://f2.topit.me/2/2e/9e/11378583535259e2e2o.jpg   # logo地址
+    douban:
+        name:                                  # 豆瓣地址名称
+        key:                                 # 豆瓣API Key
+imglogo:
+    enable: true
+    src: /img/logo.svg 
+    favicon: /img/favicon.ico 
+    apple_icon: /img/pacman.jpg
